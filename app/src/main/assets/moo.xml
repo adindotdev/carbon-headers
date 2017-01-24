@@ -20,5 +20,28 @@ entry can only be only one of hour or day/month type
 day_header entries have a higher priority then hour entries -->
 
 <daylight_headers>
-    <hour_header hour="6" image="moo_allday" />
+    <hour_header hour="0" image="moo00" />
+    <hour_header hour="1" image="moo01" />
+    <hour_header hour="2" image="moo02" />
+    <hour_header hour="3" image="moo03" />
+    <hour_header hour="4" image="moo04" />
+    <hour_header hour="5" image="moo05" />
+    <hour_header hour="6" image="moo06" />
+    <hour_header hour="7" image="moo07" />
+    <hour_header hour="8" image="moo08" />
+    <hour_header hour="9" image="moo09" />
+    <hour_header hour="10" image="moo10" />
+    <hour_header hour="11" image="moo11" />
+    <hour_header hour="12" image="moo12" />
+    <hour_header hour="13" image="moo13" />
+    <hour_header hour="14" image="moo14" />
+    <hour_header hour="15" image="moo15" />
+    <hour_header hour="16" image="moo16" />
+    <hour_header hour="17" image="moo17" />
+    <hour_header hour="18" image="moo18" />
+    <hour_header hour="19" image="moo19" />
+    <hour_header hour="20" image="moo20" />
+    <hour_header hour="21" image="moo21" />
+    <hour_header hour="22" image="moo22" />
+    <hour_header hour="23" image="moo23" />
 </daylight_headers>
